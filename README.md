@@ -1,2 +1,2 @@
 # shiny-potato
-Planilha de controle financeiro em Excel para organização de receitas e despesas. Possui cálculo automático de entradas, saídas, saldo e acumulado, além de dashboard interativo com gráficos e análise mensal/anual. Interface simples, ideal para planejamento e acompanhamento financeiro pessoal.
+Tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho grande interesse por dados e estou em constante evolução para me tornar um Analista de Dados. Busco desenvolver habilidades em análise, organização e visualização, transformando informações em insights para tomada de decisões.
